@@ -2,6 +2,9 @@ body{
 	background-color: #670024;
 	padding-top: 40px;
 }
+.navbar-inner{
+	background-color: #291550;
+}
 
 h1 {
 	text-align: center;
