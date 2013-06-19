@@ -14,9 +14,9 @@ h1 {
 }
 .icons{
 	text-align: center;
-	margin-top: 250px;
+	margin-top: 150px;
 	height: 200px;
-	color: #486d00
+	color: #486d00;
 
 
 }
@@ -67,6 +67,22 @@ ul{
 	list-style: none;
 	overflow: hidden;
 	margin: 0px;
+}
+.intro h1{
+	text-align: center;
+	color: white;
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+.intro h2{
+	font-family: 'Lily Script One', cursive;
+	color: white;
+	text-align: center;
+}
+.intro h4{
+	text-align: center;
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+
 }
 
 
